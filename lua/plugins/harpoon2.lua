@@ -13,7 +13,7 @@ return {
     local keys = {
       {
         "<leader>h",
-        desc = "Harpoon",
+        desc = "harpoon",
       },
       {
         "<leader>ha",
